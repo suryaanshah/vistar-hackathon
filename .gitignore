@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional: IDE specific files
+.vscode/
+.idea/
+
+# Optional: If you decide to exclude the dataset
+# chest_xray/
