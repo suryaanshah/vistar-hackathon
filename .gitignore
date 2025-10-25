@@ -11,5 +11,10 @@ __pycache__/
 .vscode/
 .idea/
 
-# Optional: If you decide to exclude the dataset
-# chest_xray/
+# exclude the dataset
+chest_xray/
+
+# exclude any images
+*.jpg
+*.jpeg
+*.png
