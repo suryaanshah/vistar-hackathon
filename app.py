@@ -101,7 +101,7 @@ if model is not None:
     if uploaded_file is not None:
         # Display the uploaded image
         image_bytes = uploaded_file.getvalue()
-        st.image(image_bytes, caption='Uploaded X-Ray', use_column_width=True)
+        st.image(image_bytes, caption='Uploaded X-Ray', use_container_width=True)
 
         # Make prediction when button is clicked
         if st.button('Classify Image'):
