@@ -96,7 +96,7 @@ The deployment uses the code from the `main` branch of this GitHub repository an
 
 ---
 
-## 🙏 Citations & Acknowledgements
+## Citations & Acknowledgements
 
 This project utilizes several open-source libraries and datasets.
 
@@ -123,7 +123,9 @@ This project utilizes several open-source libraries and datasets.
         * **Transfer Learning Tutorial:** [pytorch.org/tutorials/beginner/transfer_learning_tutorial.html](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
         * **Datasets & DataLoaders:** [pytorch.org/tutorials/beginner/basics/data_tutorial.html](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
         * **Training a Classifier:** [pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+
 ---
+
 ## 📜 License
 
 Unlicenced
