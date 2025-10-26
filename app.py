@@ -13,8 +13,8 @@ CLASS_NAMES = ['NORMAL', 'PNEUMONIA'] # Must match the order from training
 # We'll run inference on CPU for wider compatibility in a simple app
 device = "cpu"
 # Uncomment below if you want to try GPU (ensure CUDA is available)
-# device = "cuda" if torch.cuda.is_available() else "cpu"
-# print(f"Using {device} device for inference.")
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print(f"Using {device} device for inference.")
 
 
 # --- Function to load the model ---
