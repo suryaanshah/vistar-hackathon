@@ -15,7 +15,7 @@ LEARNING_RATE = 0.001
 MODEL_SAVE_PATH = "pneumonia_classifier_model.pth"
 
 # Define the paths to your data
-data_dir = './chest_xray'
+data_dir = 'archive/chest_xray'
 train_dir = os.path.join(data_dir, 'train')
 val_dir = os.path.join(data_dir, 'val')
 test_dir = os.path.join(data_dir, 'test') # We'll use this in the next step
