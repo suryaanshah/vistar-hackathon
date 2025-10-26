@@ -6,7 +6,7 @@ This project uses a deep learning model (ResNet50) trained with PyTorch to class
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Image Classification:** Binary classification (Pneumonia vs. Normal).
 * **Transfer Learning:** Utilizes a ResNet50 model pre-trained on ImageNet.
@@ -16,7 +16,7 @@ This project uses a deep learning model (ResNet50) trained with PyTorch to class
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.9+
 * **Deep Learning:** PyTorch, Torchvision
@@ -27,12 +27,12 @@ This project uses a deep learning model (ResNet50) trained with PyTorch to class
 
 ---
 
-## ⚙️ Setup (Local)
+## Setup (Local)
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
-    cd your_repository_name
+    git clone [https://github.com/suryaanshah/vistar-hackathon.git](https://github.com/suryaanshah/vistar-hackathon.git)
+    cd vistar-hackathon
     ```
 
 2.  **Create Virtual Environment:**
@@ -58,7 +58,7 @@ This project uses a deep learning model (ResNet50) trained with PyTorch to class
 
 ---
 
-## ▶️ Usage
+## Usage
 
 1.  **Data Exploration (Optional):**
     * Inspect the dataset structure and view sample images.
@@ -88,17 +88,15 @@ This project uses a deep learning model (ResNet50) trained with PyTorch to class
 
 ---
 
-## ☁️ Deployment
+## Deployment
 
-This application is deployed using Streamlit Community Cloud and is accessible at:
-
-**(Optional: Add your Streamlit Cloud app URL here if you deployed it)**
+This application is deployed using Streamlit Community Cloud and is accessible at: [Streamlit](https://vistar-hackathon-arp2ylkx8zrnrpy2nbcvcu.streamlit.app/)
 
 The deployment uses the code from the `main` branch of this GitHub repository and installs dependencies from `requirements.txt`.
 
 ---
 
-## 🙏 Citations & Acknowledgements
+## Citations & Acknowledgements
 
 This project utilizes several open-source libraries and datasets.
 
@@ -125,4 +123,4 @@ This project utilizes several open-source libraries and datasets.
 
 ## 📜 License
 
-**(Optional: Add a license if you wish, e.g., MIT License)**
+Unlicenced
