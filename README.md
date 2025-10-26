@@ -96,7 +96,7 @@ The deployment uses the code from the `main` branch of this GitHub repository an
 
 ---
 
-## Citations & Acknowledgements
+## 🙏 Citations & Acknowledgements
 
 This project utilizes several open-source libraries and datasets.
 
@@ -108,19 +108,22 @@ This project utilizes several open-source libraries and datasets.
     * He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. *In Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 770-778). ([arXiv:1512.03385](https://arxiv.org/abs/1512.03385))
 
 * **Libraries:**
-    * **PyTorch:** Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). PyTorch: An Imperative Style, High-Performance Deep Learning Library. *Advances in Neural Information Processing Systems*, *32*. ([https://pytorch.org/](https://pytorch.org/))
-    * **Torchvision:** Marcel, S. and Rodriguez, Y. (2010). Torchvision the machine-vision package of Torch. *In Proceedings of the 18th ACM international conference on Multimedia* (pp. 1485-1488). ([https://pytorch.org/vision/stable/index.html](https://pytorch.org/vision/stable/index.html))
-    * **Scikit-learn:** Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, *12*, 2825-2830. ([https://scikit-learn.org/](https://scikit-learn.org/))
-    * **Matplotlib:** Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. *Computing in science & engineering*, *9*(3), 90-95. ([https://matplotlib.org/](https://matplotlib.org/))
-    * **Seaborn:** Waskom, M. L. (2021). seaborn: statistical data visualization. *Journal of Open Source Software*, *6*(60), 3021. ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
-    * **Streamlit:** Streamlit Inc. (2020). Streamlit: The fastest way to build custom ML tools. ([https://streamlit.io](https://streamlit.io))
-    * **OpenCV:** Bradski, G. (2000). The OpenCV Library. *Dr. Dobb's Journal of Software Tools*. ([https://opencv.org/](https://opencv.org/))
+    * PyTorch
+    * Torchvision
+    * Scikit-learn
+    * Matplotlib
+    * Seaborn
+    * Streamlit
+    * OpenCV
+    * NumPy
+    * Pillow
 
 * **Tutorials/Code Structure:**
-    * Code structure and training loops were adapted from standard PyTorch and Torchvision examples and tutorials available at [pytorch.org/tutorials](https://pytorch.org/tutorials).
-
+    * Code structure and training loops were adapted from standard PyTorch and Torchvision examples, particularly inspired by:
+        * **Transfer Learning Tutorial:** [pytorch.org/tutorials/beginner/transfer_learning_tutorial.html](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+        * **Datasets & DataLoaders:** [pytorch.org/tutorials/beginner/basics/data_tutorial.html](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+        * **Training a Classifier:** [pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
 ---
-
 ## 📜 License
 
 Unlicenced
